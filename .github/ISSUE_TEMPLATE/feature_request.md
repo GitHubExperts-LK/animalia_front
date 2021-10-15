@@ -1,11 +1,13 @@
 ---
 name: Feature request
 about: Suggest a new feature for this project
-title: ''
-labels: ''
+title: '[FEATURE NAME]'
+labels: 'feature request'
 assignees: ''
 
 ---
+
+<< Please enter a descriptive title of the feature name for the issue title above. >>
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
